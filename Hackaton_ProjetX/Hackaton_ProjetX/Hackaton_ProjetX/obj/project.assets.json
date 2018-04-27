@@ -419,28 +419,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gaeta\\.nuget\\packages\\": {},
+    "C:\\Users\\Hugo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX.csproj",
+      "projectUniqueName": "D:\\Hugo\\Documents\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX.csproj",
       "projectName": "Hackaton_ProjetX",
-      "projectPath": "F:\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX.csproj",
-      "packagesPath": "C:\\Users\\gaeta\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\obj\\",
+      "projectPath": "D:\\Hugo\\Documents\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX.csproj",
+      "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
+      "outputPath": "D:\\Hugo\\Documents\\GitHub\\hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\Hackaton_ProjetX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\gaeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
