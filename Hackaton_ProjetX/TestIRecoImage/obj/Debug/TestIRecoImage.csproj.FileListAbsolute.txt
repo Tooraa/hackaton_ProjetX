@@ -1,0 +1,9 @@
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\obj\Debug\TestIRecoImage.csprojResolveAssemblyReference.cache
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\obj\Debug\TestIRecoImage.csproj.CoreCompileInputs.cache
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\bin\Debug\TestIRecoImage.exe.config
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\bin\Debug\TestIRecoImage.exe
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\bin\Debug\TestIRecoImage.pdb
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\obj\Debug\TestIRecoImage.exe
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\obj\Debug\TestIRecoImage.pdb
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\TestIRecoImage\bin\Debug\Newtonsoft.Json.xml
