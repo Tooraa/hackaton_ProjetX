@@ -1,0 +1,11 @@
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.csprojResolveAssemblyReference.cache
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.csproj.CoreCompileInputs.cache
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.App.xaml.g.cs
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.MainPage.xaml.g.cs
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.AssemblyInfoInputs.cache
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.AssemblyInfo.cs
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\bin\Debug\netstandard2.0\Hackaton_ProjetX.deps.json
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\bin\Debug\netstandard2.0\Hackaton_ProjetX.dll
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\bin\Debug\netstandard2.0\Hackaton_ProjetX.pdb
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.dll
+F:\GitHub\hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\Hackaton_ProjetX\obj\Debug\netstandard2.0\Hackaton_ProjetX.pdb
